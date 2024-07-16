@@ -11,11 +11,11 @@ The primary objective of this project is to analyze the behavior of users visiti
 ## **Dataset**
 The dataset comprises 12,330 instances with 18 attributes, including both numerical and categorical data. Key attributes include:
 
-* Administrative, Administrative_Duration: Pages related to site administration visited and the time spent on them.
-* Informational, Informational_Duration: Informational pages visited and the time spent on them.
-* ProductRelated, ProductRelated_Duration: Product-related pages visited and the time spent on them.
-* BounceRates, ExitRates: Bounce and exit rates of the pages.
-* Revenue: Indicates whether the session resulted in a transaction.
+* `Administrative`, `Administrative_Duration`: Pages related to site administration visited and the time spent on them.
+* `Informational`, `Informational_Duration`: Informational pages visited and the time spent on them.
+* `ProductRelated`, `ProductRelated_Duration`: Product-related pages visited and the time spent on them.
+* `BounceRates`, `ExitRates`: Bounce and exit rates of the pages.
+* `Revenue`: Indicates whether the session resulted in a transaction.
 ## **Methodology**
 ### **1. Data Preprocessing:**
 
